@@ -5,7 +5,7 @@
 <p align="center">Malware Researcher<br>Networking knowledge<br>DDoS specialist<br></p>
 
 
-<p align="center"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/language_go_icon_135456.png" width="50" height="70"> <img src="https://user-images.githubusercontent.com/65712074/121199404-302d4700-c873-11eb-8684-cd254efdf1cb.png" width="50" height="60"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="70" height="60"> <img src="https://user-images.githubusercontent.com/65712074/121199404-302d4700-c873-11eb-8684-cd254efdf1cb.png" width="50" height="60"></p>
 
 <p align="center">
   

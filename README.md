@@ -13,5 +13,8 @@
 </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/820479123129630751.png"></img>
+  
+  <img src="https://user-images.githubusercontent.com/65712074/122566464-daf9ee00-d047-11eb-97a1-20e6b58bc256.jpg"></img>
+
 </p>
 

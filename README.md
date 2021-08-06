@@ -12,14 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Yariya&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
 <p align="center">
-	
   <img src="https://discord.c99.nl/widget/theme-1/820479123129630751.png"></img>
   
-  <a href="https://www.abuseipdb.com/user/55003" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks" alt="AbuseIPDB Contributor Badge">
-	<img src="https://www.abuseipdb.com/contributor/55003.svg" style="width: 60px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
-</a>
-  
-  
-
 </p>
 

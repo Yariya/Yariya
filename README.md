@@ -15,6 +15,9 @@
   <img src="https://discord.c99.nl/widget/theme-1/820479123129630751.png"></img>
   
   <img src="https://user-images.githubusercontent.com/65712074/122566464-daf9ee00-d047-11eb-97a1-20e6b58bc256.jpg"></img>
+  <a href="https://www.abuseipdb.com/user/55003" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks" alt="AbuseIPDB Contributor Badge">
+	<img src="https://www.abuseipdb.com/contributor/55003.svg" style="width: 381px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
+</a>
 
 </p>
 

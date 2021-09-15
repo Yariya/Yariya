@@ -2,7 +2,7 @@
 
 
 
-<p align="center">Malware Researcher<br>Networking<br>DDoS mitigation<br></p>
+<p align="center">Malware Researcher<br>Networking<br>DDoS mitigation<br><br>Current Project: NekoShield Layer7 Traffic Filter<br></p>
 
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="70" height="60"> <img src="https://user-images.githubusercontent.com/65712074/121199404-302d4700-c873-11eb-8684-cd254efdf1cb.png" width="50" height="60"></p>

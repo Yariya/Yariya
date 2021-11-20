@@ -2,7 +2,7 @@
 
 
 
-<p align="center">Malware Researcher<br>Networking<br>DDoS mitigation<br><br><br>Languages: Golang (serious) Python (just for fun), Html, css, nodejs, java, C</p>
+<p align="center">Networking<br>DDoS mitigation<br>Working with High Loads<br>Performance enthusiast<br>Languages: Golang, Python, C, JS</p>
 
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="70" height="60">             
